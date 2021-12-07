@@ -39,7 +39,7 @@ public class ListViewNotas extends AppCompatActivity {
         setContentView(R.layout.activity_list_view_notas);
 
 
-        //listViewNotas=( ListView) findViewById(R.id.lstNotas);
+
         consultarNotas();
         consultarMultimedia();
         init();
